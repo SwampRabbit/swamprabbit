@@ -1,7 +1,7 @@
 ### Hi there and Welcome! 👋👋👋
 
 #### About :rabbit2:
-MX Linux team member, mostly application packaging, and small fixes here and there.  I started doing any of this only because I wanted something packaged and got ~~duped~~ into learning how to do it myself.  Somehow, it turned into freshly packaging or backporting all kinds of things, even creating some things for the MX Community.  I'm far from an expert at any of it, but always willing to share what I know, and learn new things.
+MX Linux team member, mostly application packaging, and small fixes here and there.  I've always been a huge proponent of FOSS and donated :moneybag: to ones I used.  I only started doing any of this because I wanted something specific packaged and got ~~duped~~ into learning how to do it myself.  Somehow, it turned into freshly packaging or backporting all kinds of things, even creating some things for the MX Community.  I'm far from an expert at any of it, but always willing to share what I know, and learn new things.
 
 :house_with_garden: <a href="https://mxlinux.org/">mxlinux.org</a>
 #### More about me
