@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there and Welcome! 👋👋👋
 
-<!--
-**SwampRabbit/swamprabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About :rabbit2:
+MX Linux team member, mostly application packaging, and small fixes here and there.  I started doing any of this only because I wanted something packaged and got ~~duped~~ into learning how to do it myself.  Somehow, it turned into freshly packaging or backporting all kinds of things, even creating some things for the MX Community.  I'm far from an expert at any of it, but always willing to share what I know, and learn new things.
 
-Here are some ideas to get you started:
+:house_with_garden: <a href="https://mxlinux.org/">mxlinux.org</a>
+#### More about me
+- :hammer_and_wrench: **I’m currently working on:** MX Linux Adanced Hardware Support (AHS)
+- :brain: **I’m currently learning:** everything and anything I can
+- 🤔 **I’m looking for help with:** everything under the sun
+- 💬 **Ask me about:** Contributing to MX Linux
+- 📫 **How to reach me:** on the MX Linux forums
+- 😄 **Pronouns:** Wabbit, Toaster Oven, 5 Sided Fist-A-Gon
+- :shushing_face: **Fun fact:** I'm the worst coder in the world, I can't code myself out of a loop if my life depended on it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
